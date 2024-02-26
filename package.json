@@ -1,0 +1,26 @@
+{
+  "name": "convert-currency",
+  "version": "1.0.0",
+  "description": "An npm package for convert currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivamch02/convert-currency.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "shivam chaurasiya",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Shivamch02/convert-currency/issues"
+  },
+  "homepage": "https://github.com/Shivamch02/convert-currency#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
